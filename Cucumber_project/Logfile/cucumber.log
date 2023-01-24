@@ -1,0 +1,15 @@
+2023-01-22 16:39:52 INFO  CommonUtils:33 - Loading property File
+2023-01-22 16:39:52 INFO  CommonUtils:38 - Getting property Files
+2023-01-22 16:39:52 INFO  DriverManager:21 - Launching browser
+2023-01-22 16:39:54 INFO  DriverManager:26 - Opening browser :chrome
+2023-01-22 16:40:02 INFO  Common_Step_Definition:33 - Launching the url
+2023-01-22 16:40:07 INFO  Common_Step_Definition:35 - Logging into OrangeHRM Application
+2023-01-22 16:40:11 INFO  VerifyCEOName_Step_Def:24 - User successfully logged in to the Application
+2023-01-22 16:40:11 INFO  VerifyCEOName_Step_Def:30 - user is on Home page
+2023-01-22 16:40:13 INFO  VerifyCEOName_Step_Def:47 - User clicks on the Directory Option
+2023-01-22 16:40:14 INFO  VerifyCEOName_Step_Def:91 - Expected Name is not seen
+2023-01-22 16:40:14 INFO  CommonUtils:33 - Loading property File
+2023-01-22 16:40:14 INFO  CommonUtils:38 - Getting property Files
+2023-01-22 16:40:14 INFO  VerifyTimesheets_Step_Def:24 - user is not on home page
+2023-01-22 16:40:16 INFO  VerifyTimesheets_Step_Def:38 - User clicks on Time option
+2023-01-22 16:40:19 INFO  VerifyTimesheets_Step_Def:80 - Expected message is not seen
